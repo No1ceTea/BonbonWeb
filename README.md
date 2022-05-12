@@ -13,6 +13,6 @@
 ## Installation
 
  Pour lancer le site en local, il vous faut n'importe quelle plateforme de développement permettant de faire fonctionner localement des scripts PHP. Ensuite vous devez :
- - 1. Télécharger et décompreser le project
- - 2. Utilisez le script bonbon.sql dans votre phpMyAdmin pour installer la base de données localement
- - 3. Mettre le fichier BonbonWeb dans votre fichier www de votre plateforme de développement local PHP
+ - I. Télécharger et décompreser le project
+ - II. Utilisez le script bonbon.sql dans votre phpMyAdmin pour installer la base de données localement
+ - III. Mettre le fichier BonbonWeb dans votre fichier www de votre plateforme de développement local PHP
